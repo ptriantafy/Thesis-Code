@@ -1,0 +1,141 @@
+response,markings
+"The intellectual effort required to understand another person’s intentions and motives", 1
+"The work needed to physically decipher complex texts", 0
+"The process of learning how to interpret legal documents", 0
+"The ability to read between the lines of coded messages", 0
+"Because they assume violence must always have deep interpretive meaning", 1
+"Because they justify violent actions in their research", -1
+"Because they claim violence is always random and meaningless", -1
+"Because they ignore the symbolic power of violence", -1
+"It can produce predictable effects without requiring understanding between individuals", 1
+"It requires a deep level of trust between parties", -1
+"It is always an act of communication", -1
+"It always creates long-term societal change", -1
+"Acts of violence have clear outcomes, while threats of violence require some shared understanding", 1
+"Acts of violence are unpredictable, while threats of violence are always ignored", -1
+"Threats of violence are more dangerous than actual violence", -0.5
+"The threat of violence is less likely to influence human behavior", -1
+"It removes complexity from social interactions", 1
+"It always leads to disorder and instability", -1
+"It makes people more willing to compromise", -0.5
+"It encourages deeper moral reflection", -1
+"Because violence bypasses debate, clarification, and renegotiation", 1
+"Because violence relies on strict logical reasoning", -1
+"Because victims of violence are naturally biased against authority", -0.5
+"Because bureaucracies always create unfair systems", -1
+"Its effects are limited to physical harm", 1
+"It only works in war situations", -1
+"It can never be justified", -1
+"It is always less effective than persuasion", -1
+"It is the only form of stupidity that is difficult to counter intelligently", 1
+"It prevents people from forming social bonds", -1
+"It leads to more democratic outcomes", -1
+"It often leads to war", 0
+"They may sometimes be disingenuous.", 1
+"They are always genuine.", -1
+"They come primarily from officials within bureaucracies.", -0.5
+"They are rarely addressed to large audiences.", -0.5
+"Bureaucracy is universally hated yet it keeps expanding", 1
+"People dislike bureaucracy and it keeps decreasing over time", -1
+"Bureaucracies are necessary for democracy but undermine freedom", -0.5
+"Bureaucracies are designed to be efficient yet they always fail", -0.5
+"By creating new problems that require further bureaucracy.", 1
+"By eliminating inefficiencies in governance.", -1
+"By reducing hierarchical structures.", -1
+"By recruiting more officials than necessary.", -0.5
+"It monopolizes knowledge to maintain power.", 1
+"It is highly transparent and efficient.", -1
+"It is limited by its inability to adapt.", -0.5
+"It thrives under absolute monarchs.", -1
+"Bureaucracies often undermine absolute monarchs.", 1
+"Absolute monarchs easily control bureaucracies.", -1
+"Bureaucracies ensure monarchs maintain power.", -1
+"Monarchs can dismantle bureaucracies without resistance.", -1
+"They operate independently of political change", 1
+"Their efficiency makes them necessary.", -1
+"They adapt too quickly for reformers.", -0.5
+"Monarchs protect them from external threats.", -1
+"It strengthens the position of bureaucratic officials.", 1
+"It ensures transparency within bureaucratic systems.", -1
+"It allows external parties to influence decisions.", -1
+"It simplifies the decision-making process.", -1
+"By killing them", 1
+"By completely eliminating bureaucratic offices and redistributing their duties", -0.5
+"By implementing strict transparency laws and limiting bureaucratic secrecy", -0.5
+"By gradually replacing bureaucrats with elected officials", -1
+"They could use public criticism to control bureaucrats", 1
+"They could dismiss bureaucrats at will", -1
+"They had total authority over government spending", -1
+"They could abolish administrative offices", -1
+"The discovery of Neanderthal-built structures in a French cave", 1
+"The discovery of ancient cave paintings in France", -1
+"The discovery of Neanderthal skeletal remains", -1
+"The identification of modern human artifacts in a Neanderthal cave", –0.5
+"It ranks among the earliest human building projects ever discovered", 1
+"It is the first evidence of Neanderthals using fire", -0.5
+"It shows early humans built permanent settlements", -1
+"It contains the oldest known cave paintings", -0.5
+"Only Neanderthals lived in Europe at the time", 1
+"Cave bears built similar formations", -1
+"The presence of Neanderthal skeletons nearby", -0.5
+"The structures were covered in Neanderthal handprints", 0
+"The depth of the cave where the structures were built", 1
+"The presence of artifacts in the structures", 0
+"The similarity of the structures to modern architecture", -1
+"The lack of any human or animal remains nearb", -1
+"Bears do not demonstrate the ability to stack objects intentionally", 1
+"Bears cannot walk that far into caves", 0
+"Bears typically avoid stalagmites", -1
+"There is no evidence that bears lived in the region at that time", -1
+"Their involvement in what may be considered architectural activity", 1
+"Their use of stone tools", -1
+"Their hunting of large animals", -1
+"Their ability to make fire", 0
+"They were covered in a mineral deposit soon after being built", 1
+"The walls were maintained by later civilizations", -1
+"They were built in an extremely dry climate", -1
+"The walls were made of metal", -1
+"Because no other Neanderthal sites have included evidence of construction like this", 1
+"Because Neanderthals are known to have only used caves naturally", 0
+"Because the structures were made of rare materials", -1
+"Because the Neanderthals copied early human designs", -1
+"To introduce a method for reducing execution time in sequential approximate string matching", 1
+"To propose a parallel computing method for approximate string matching", -0.5
+"To compare different dynamic programming techniques for exact string matching", -0.5
+"To develop a new edit distance metric that replaces Levenshtein distance", -1
+"It is slow due to data dependency in calculations", 1
+"It cannot handle short input sequences", -1
+"It only works on specialized hardware", -1
+"It always provides incorrect results for approximate matching", -1
+"k is small", 1
+"The input sequences are long and complex", -0.5
+"The pruning register is disabled", -1
+"The input contains mostly numeric values", -1
+"Humans consider semantics and character relationships, while edit distance does not", 1
+"Humans always prefer shorter strings", -1
+"Humans focus on letter frequency, while edit distance considers letter positions", -1
+"Edit distance calculations are not influenced by emotions", -0.5
+"It reduces execution time by avoiding unnecessary computations", 1
+"It ensures every step in the sequence is fully processed", -1
+"It eliminates the need for a Levenshtein distance calculation", -1
+"It makes dynamic programming more accurate", -0.5
+"String similarity is based on shape and keyboard character positions", 1
+"The proposed method works best with parallel computing", -1
+"Hamming distance is more efficient than Levenshtein distance", -1
+"Approximate string matching is not useful in real-world applications", -1
+"They do not consider the overhead of checking k-mismatches", 1
+"They rely too much on parallel computing", -1
+"They only work for exact string matching", -1
+"They use outdated programming languages", -1
+"transposition", 1
+"reversal", -1
+"swapping", -0.5
+"concatenation", -1
+"By measuring the minimum number of basic operations needed to transform one string into another", 1
+"By checking for identical character sequences only", -1
+"By counting the number of common vowels", -1
+"By converting the strings into binary form and using a XOR function", -0.5
+"To skip unnecessary step calculations when previous steps exceed k-mismatches", 1
+"To store all previous computations for future reuse", -1
+"To ensure every character in the input is processed sequentially", -1
+"To convert the string matching process into a parallel computation", -1
